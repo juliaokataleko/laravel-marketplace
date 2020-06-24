@@ -1,7 +1,7 @@
 <p align="center"><img src="https://res.cloudinary.com/dtfbvvkyp/image/upload/v1566331377/laravel-logolockup-cmyk-red.svg" width="400"></p>
 
 
-## E-commerce com Laravel
+## MarketPlace com Laravel
 
 ### Recursos
 <div>Abaixo vão os recursos que o sistema possui:</div>
